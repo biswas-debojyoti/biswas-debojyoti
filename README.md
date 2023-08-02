@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **debojyotibiswas00@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FNZvsH8RdZLznftt4S9pCH3qj-tgFRoS/view?usp=sharing](https://drive.google.com/file/d/1FNZvsH8RdZLznftt4S9pCH3qj-tgFRoS/view?usp=sharing)
+- 📄 Know about my experiences  👉 [【﻿Resume】](https://drive.google.com/file/d/1FNZvsH8RdZLznftt4S9pCH3qj-tgFRoS/view?usp=sharing)
 
 - ⚡ Fun fact **Bug without debug is impossible**
 
