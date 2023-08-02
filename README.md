@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Debojyoti Biswas</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+![backend-copy-1600x900](https://user-images.githubusercontent.com/101389007/193854846-5944fad4-1a74-4f30-b691-adb57077e4d0.jpg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=biswas-debojyoti&label=Profile%20views&color=0e75b6&style=flat" alt="biswas-debojyoti" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=biswas-debojyoti" alt="biswas-debojyoti" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=935&height=100&lines=Hi👋,+I'm+Debojyoti...." alt="Typing SVG" /></a>
+
 
 - 🔭 I’m currently working on **Front end Projects**
 
